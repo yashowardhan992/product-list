@@ -4,7 +4,7 @@ This is a React application that demonstrates a product listing page with search
 
 ## Features
 
-- Search products by title
+- Search products by category
 - Paginate through the product list
 - Sort products by price in ascending or descending order
 
