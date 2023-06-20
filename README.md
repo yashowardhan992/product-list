@@ -14,13 +14,6 @@ This is a React application that demonstrates a product listing page with search
 - Material-UI
 - react-paginate
 
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/react-product-listing.git
-
 
 # Screenshots : 
 
@@ -40,6 +33,17 @@ git clone https://github.com/your-username/react-product-listing.git
 ![image](https://github.com/yashowardhan992/product-list/assets/52581482/75941674-0076-44df-902c-0a75b36b3ecb)
 
 ![image](https://github.com/yashowardhan992/product-list/assets/52581482/d9141b7e-0caa-465f-9f90-c211a9d91099)
+
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/react-product-listing.git
+
+
+
 
  
 
